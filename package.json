@@ -1,0 +1,10 @@
+{
+  "name": "@pipeworx/mcp-archive",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "archive"],
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
