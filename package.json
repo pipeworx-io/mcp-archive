@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-archive",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Archive MCP — wraps the Internet Archive APIs (free, no auth)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4f55576f40857a0ff3f0a7d4a68619564fdca56b6e9d0fc7bdadb9bcd815d00d",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-f0932aabd74e0e638b7e982c259e1102dd32f7500c2f95d3d042572f4bec9189",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
